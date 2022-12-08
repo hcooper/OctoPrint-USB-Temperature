@@ -3,7 +3,9 @@ plugin_identifier = "OctoPrint-USB-Temperature"
 plugin_package = "OctoPrint-USB-Temperature"
 plugin_name = "OctoPrint-USB-Temperature"
 plugin_version = "0.1.0"
-plugin_description = """Fetches temperature from USB thermometer using temper-py library"""
+plugin_description = (
+    """Fetches temperatures from USB thermometers using temper-py library"""
+)
 plugin_author = "hcooper"
 plugin_author_email = "you@example.com"
 plugin_url = "https://github.com/hcooperOctoPrint-Usbtemp"
