@@ -34,4 +34,4 @@ crw-rw-r-- 1 root plugdev 244, 1 Dec  6 12:03 /dev/hidraw1
 
 ### Debugging
 
-Turn up the log level for the plugin via the logging section on the settings menu. This will dumb verbose information about the devices & data the plugin is fetching.
+Turn up the log level for the plugin via the logging section on the settings menu. This will dump verbose information about the devices & data the plugin is fetching.
