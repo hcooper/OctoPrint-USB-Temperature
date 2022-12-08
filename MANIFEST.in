@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_usbtemp/templates *
+recursive-include octoprint_usbtemp/translations *
+recursive-include octoprint_usbtemp/static *
